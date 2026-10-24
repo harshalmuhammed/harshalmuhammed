@@ -14,6 +14,10 @@
 <a href="https://linkedin.com" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-18181b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+&nbsp;
+<a href="https://www.instagram.com/harshal.____/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-18181b?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
 <br/><br/>
 
@@ -37,58 +41,23 @@
 
 </div>
 
-### 💼 Experience
+### 👨‍💻 About Me
 
 <table>
   <tr>
     <td>
-      <h3>Senior Front-End Developer · <em>TrickyDot Technologies Pvt. Ltd</em></h3>
-      <sub>Present</sub>
-      <br/><br/>
-      <ul>
-        <li>Engineer and maintain responsive web applications leveraging <b>React.js, JavaScript, Tailwind CSS, HTML5, and CSS3</b>.</li>
-        <li>Build and customize fast e-commerce stores and CMS websites using <b>Shopify</b> and <b>WordPress</b>.</li>
-        <li>Collaborate with designers and backend teams to turn design prototypes into clean, accessible web interfaces.</li>
-        <li>Optimize web vitals, page load speeds, and cross-browser consistency.</li>
-        <li>Integrate RESTful APIs and lead code reviews to mentor junior developers.</li>
-      </ul>
+      <p>
+        I am a <b>Senior Front-End Developer</b> with <b>4+ years of hands-on experience</b> building responsive, user-friendly, and high-performance web applications and websites.
+      </p>
+      <p>
+        My core expertise spans modern front-end engineering with <b>React.js, JavaScript, Tailwind CSS, HTML5, and CSS3</b>, alongside building and customizing e-commerce and CMS solutions using <b>Shopify</b> and <b>WordPress</b>.
+      </p>
+      <p>
+        I focus on writing clean, scalable, and maintainable code, creating pixel-perfect interfaces from UI/UX designs, and optimizing performance, accessibility, and SEO across all devices.
+      </p>
     </td>
   </tr>
 </table>
-
----
-
-### 🚀 Featured Project Highlights
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Web Applications</h3>
-      <ul>
-        <li><b>Farm Learning Platform:</b> Interactive platform with modular learning courses and multimedia integration.</li>
-        <li><b>Logistics Dashboard:</b> Real-time fleet tracking and KPI analytics visualization.</li>
-        <li><b>Modular CMS:</b> Streamlined content management tool built for quick client updates.</li>
-        <li><b>5+ scalable applications</b> built with modular component architecture.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Client Websites & E-Commerce</h3>
-      <ul>
-        <li><b>30+ Deployed Projects</b> across logistics, heavy equipment, study abroad, healthcare, and retail.</li>
-        <li>Custom <b>Shopify & WordPress</b> storefronts and corporate sites.</li>
-        <li>Pixel-perfect responsive design across mobile, tablet, and desktop.</li>
-        <li>SEO-optimized semantic code ensuring high search engine visibility.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🎓 Education
-
-- **Bachelor of Commerce (B.Com)** — Calicut University *(2019 – 2022)*
-- **Higher Secondary Education** — Directorate of Higher Secondary Education *(2015 – 2017)*
 
 ---
 
